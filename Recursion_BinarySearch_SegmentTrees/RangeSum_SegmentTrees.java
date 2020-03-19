@@ -1,5 +1,6 @@
 /*
- * Calculating the RangeSum using SEGMENT TREE Data Structure
+ * Creation ,Updation and Finding RangeSum using SEGMENT TREE DataStructure
+ *  
  */
 public class rangeSum {
 	static void buildSegmentTree(int[] array,int[] tree,int start,int end,int treeNode)
